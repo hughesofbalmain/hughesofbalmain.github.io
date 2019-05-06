@@ -3,22 +3,22 @@
   <channel>
     <title>Hughes of Balmain</title>
     <link>http://hughesofbalmain.blogspot.com/</link>
-    <description>Family videos from Hughes of Balmain</description>
+    <description>A selection of family videos (2005-2009)</description>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en-au</language>
     <pubDate>Sun, 13 May 2018 08:30:00 +0000</pubDate>
-    <lastBuildDate>Sun, 13 May 2018 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 08:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://hughesofbalmain.github.io/images/artwork.jpg</url>
+      <url>https://hughesofbalmain.github.io/images/artwork.png</url>
       <title>Hughes of Balmain</title>
       <link>http://hughesofbalmain.blogspot.com/</link>
     </image>
-    <itunes:author>Hughes of Balmain</itunes:author>
-    <itunes:subtitle>Family videos from Hughes of Balmain</itunes:subtitle>
-    <itunes:summary>A selection of family videos from Hughes of Balmain</itunes:summary>
+    <itunes:author>Chris Hughes</itunes:author>
+    <itunes:subtitle>Family videos (2005-2009)</itunes:subtitle>
+    <itunes:summary>A selection of family videos</itunes:summary>
     <itunes:keywords>hughes, balmain, family, videos</itunes:keywords>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:image href="https://hughesofbalmain.github.io/images/artwork.jpg"/>
+    <itunes:image href="https://hughesofbalmain.github.io/images/artwork.png"/>
     <itunes:owner>
       <itunes:name>Hughes of Balmain</itunes:name>
       <itunes:email>hughesofbalmain@gmail.com</itunes:email>
