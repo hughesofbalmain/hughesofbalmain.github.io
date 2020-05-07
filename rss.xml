@@ -7,7 +7,7 @@
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en-au</language>
     <pubDate>Sun, 13 May 2018 08:30:00 +0000</pubDate>
-    <lastBuildDate>Fri, 17 May 2019 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 08:30:00 +0000</lastBuildDate>
     <image>
       <url>https://hughesofbalmain.github.io/images/artwork.png</url>
       <title>Hughes of Balmain</title>
@@ -20,8 +20,8 @@
     <itunes:explicit>clean</itunes:explicit>
     <itunes:image href="https://hughesofbalmain.github.io/images/artwork.png"/>
     <itunes:owner>
-      <itunes:name>Hughes of Balmain</itunes:name>
-      <itunes:email>hughesofbalmain@gmail.com</itunes:email>
+      <itunes:name>Chris Hughes</itunes:name>
+      <itunes:email>cajhughes@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>no</itunes:block>
     <itunes:category text="Kids &amp; Family"/>
